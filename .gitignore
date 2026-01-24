@@ -93,3 +93,7 @@ package-lock.json
 
 snapshots
 !unittests/snapshots
+
+antelope-spring-ce-*.tar.zst
+antelope-spring-ce_*.deb
+
